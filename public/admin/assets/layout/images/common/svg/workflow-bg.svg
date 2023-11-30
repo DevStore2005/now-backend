@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="527px" height="346px" viewBox="0 0 527 346" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>Background</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Solutions" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Compliance" transform="translate(-222.000000, -2207.000000)" fill="#F6F6F7">
+            <g id="Only-allow-auth" transform="translate(222.000000, 2005.000000)">
+                <g id="Simplified-UI" transform="translate(0.000000, 201.000000)">
+                    <path d="M18.4948858,244.087209 C-15.276922,178.525117 -9.56024053,19.7337803 114.192286,3.86072863 C283.424929,-17.8458058 333.986582,89.107501 456.80043,144.499278 C591.358116,205.187787 511.429792,347 390.549212,347 C195.418897,347 52.2666936,309.649301 18.4948858,244.087209 Z" id="Background" transform="translate(263.818563, 173.997508) scale(-1, 1) translate(-263.818563, -173.997508) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

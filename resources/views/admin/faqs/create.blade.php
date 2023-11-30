@@ -1,0 +1,1 @@
+@include('admin.faqs._form', ['action' => 'store']);

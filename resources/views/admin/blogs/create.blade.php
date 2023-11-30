@@ -1,0 +1,1 @@
+@include('admin.blogs._form', ['action' => 'store']);

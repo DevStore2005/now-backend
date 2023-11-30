@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="299px" viewBox="0 0 1920 299" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Path 77</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="22.0970914%" x2="50%" y2="135.731159%" id="linearGradient-1">
+            <stop stop-color="#81fbb8" offset="0%"></stop>
+            <stop stop-color="#81fbb8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Login-Design-2B" transform="translate(0.000000, -781.000000)" fill="url(#linearGradient-1)">
+            <g id="Bg" transform="translate(-22.000000, -368.000000)">
+                <path d="M0,1301.5 C246.5,1115 629.123397,1246.6056 750.311698,1285.8028 C871.5,1325 1203.29304,1071.3732 1450.64652,1173.4366 C1698,1275.5 1864.24867,1310.8199 1946,1285.9986 L1946,1478 L0,1478 L0,1301.5 Z" id="Path-77"></path>
+            </g>
+        </g>
+    </g>
+</svg>

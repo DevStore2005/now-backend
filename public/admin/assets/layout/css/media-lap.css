@@ -1,0 +1,249 @@
+@media (min-width:768px) and (max-width: 1023px) {
+        
+    .dis-reverse {
+        display: block !important
+    }
+
+
+/* Login Section Starts*/
+
+.login-bg {
+   background: none;
+}
+
+#login-form img {
+    width: 100px !important;
+}
+
+.nav-link {
+    padding: 10px 30px;
+}
+
+/* Login Section Ends*/
+
+/* Nav Section Starts*/
+
+header .profile-menu {
+    float: none !important;
+    text-align: center;
+}
+
+header .dropdown-menu {
+    position: absolute;
+    top: 90%;
+    left: -55%;
+    padding: 10px 20px;
+    min-width: 12rem;
+}
+
+
+/* Nav Section Ends*/
+
+/* Banner Section Starts*/
+
+.top-section {
+    padding-top: 100px;
+}
+
+.banner-content {
+    align-items: center;
+}
+
+.banner-heading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    line-height: 1.25;
+    font-size: 35px;
+    margin-top: 30px;
+}
+
+/* Banner Section Ends*/
+
+/* Service Section Starts*/
+
+#services {
+    padding: 10px 0 0px;
+}
+
+.special-container .sub-round-we-go {
+    position: absolute;
+    top: 3rem;
+    right: 15rem;
+    
+    height: 620px;
+    
+}
+
+.slick-dots {
+    display: none !important;
+}
+
+#services::before {
+    height: 7%;
+    background-size: contain;
+    top: -34px;
+    /* display: none; */
+}
+
+.special-container .sub-round-we-go .piece {
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+/* Service Section Ends*/
+
+/* features Section Starts */
+
+#features {
+    padding: 50px 0px 50px 0px;
+}
+
+#features::before {
+    top: -70px;
+    height: 5%;
+    background-size: contain;
+}
+
+
+.appworks::before {
+    top: -9%;
+    right: 30%;
+}
+
+.appworks::after {
+    top: 68%;
+    left: 71%;
+}
+
+.services-flow::after {
+    top: 71%;
+    left: 71%;
+}
+
+
+#features .row img {
+    width: 50%;
+    margin-bottom: 60px;
+}
+
+.spacing-bottom {
+    padding-bottom: 6rem;
+}
+
+/* features Section Ends */
+
+/* Customer Section Starts */
+
+#customer {
+    padding: 50px 0px 50px 0px;
+}
+
+#customer .row {
+    text-align: center;
+}
+
+#customer .dis-ver-center {
+    justify-content: center;
+}
+
+#customer .heading hr {
+    margin: 50px 0px 10px -50px;
+}
+
+#customer .appworks img {
+    width: 60%;
+}
+
+#customer .appworks {
+    display: flex;
+align-items: center;
+justify-content: center;
+}
+
+#customer .appworks::before {
+    top: -7%;
+    right: 32%;
+}
+
+#customer .appworks::after {
+    top: 92%;
+    left: 76%;
+}
+
+#customer .services-flow::after {
+    top: 87%;
+    left: 89%;
+}
+
+
+
+/* Customer Section Ends */
+
+/* Map Section Starts */
+
+#map-sec {
+    padding: 30px 0px 30px 0px;
+}
+
+#map-sec img {
+    width: 100%;
+    padding-top: 20px;
+}
+
+#map-sec::before {
+    height: 12%;
+    top: -1%;
+}
+
+#footer::before {
+    
+    height: 20%;
+    background: url('../images/common/svg/hq-wave.svg') no-repeat center center;
+    background-size: contain;
+}
+
+#footer img {
+    width: 20% !important;
+    margin-bottom: 20px;
+}
+
+#footer .space {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+/* Map Section Starts */
+
+/* Landing Section Starts */
+
+.dash-banner .dash-section {
+
+padding: 70px 0px 70px;
+margin-top: 55px;
+}
+
+.dash-banner .dash-section
+
+/* Testimonial Section Starts */
+
+
+#customers-testimonials .item {
+    padding: 0;
+}
+
+.testimonial-name {
+    width: 80%;
+    padding: 15px 15px;   
+}
+
+/* Testimonial Section Starts */
+
+/* Landing Section Ends */
+
+}
